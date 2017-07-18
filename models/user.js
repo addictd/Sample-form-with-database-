@@ -3,7 +3,7 @@ const Sequelize = require('sequelize');
 
 const sequelize = new Sequelize('databasenew', 'aws_user', '7068125692', {
   host: 'dbinstance.cqnqcy54rxmz.us-east-1.rds.amazonaws.com',
-  dialect: 'postgres',
+  dialect: 'Amazon RDS',
   pool: {
     max: 5,
     min: 0,
