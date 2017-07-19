@@ -1,2 +1,2 @@
-# It is a sort of sample file i made for experimental purpose.
+# It is sample file i for experiment.
 A basic nodejs file which takes POST request and stores data to database.
